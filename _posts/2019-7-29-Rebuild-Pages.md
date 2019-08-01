@@ -1,7 +1,9 @@
 ---
 layout: post
-title: Forcing Github Pages Rebuild
-published: false
+title: to David
+published: true
 ---
 
-I just want to force a rebuild. This is the best I got.
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/IvFpFxq" data-context="false" ><a href="//imgur.com/a/IvFpFxq"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
+As my friend [David Horowitz](horowitz.dev) would say, everyone can make music. Check him out for Rust-lang and OCaml nonsense. 
