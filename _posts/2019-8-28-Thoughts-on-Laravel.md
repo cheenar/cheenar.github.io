@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My Initial Thoughts on the Laravel Framework
-published: true
+published: false
 ---
 
 ### Why Laravel?

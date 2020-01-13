@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mid-Semester Thoughts (Fall 2019)
-published: true
+published: false
 ---
 
 # Bit of a Lie
